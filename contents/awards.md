@@ -1,9 +1,11 @@
-- First-prize Academic Scholarship, 2023.
+- 2022  National Scholarship, Department of Education (RMB 30,000)
 
-- Freshman Academic Scholarship, 2022.
+- 2021  Outstanding Postgraduate Scholarship, Zhejiang University (RMB 10,000)  
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 2020  New Doctoral Student Scholarship, Zhejiang University (RMB 10,000)
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 2020  Shanghai Outstanding Graduate, Shanghai Municipal Education Commission  
+        
+- 2019  National Scholarship, Ministry of Education of China (RMB 20,000)    
+       
+- 2015&2016 Chinese National Encouragement Scholarship, Ministry of Education of China (RMB 5,000)

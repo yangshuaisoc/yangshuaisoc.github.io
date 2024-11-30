@@ -1,12 +1,14 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- Wang, F., <strong>Yang, S.</strong>, Wang, Y. and Liu, Z., 2024. Long-term effects of various experiences of parental migration on adult health: A nationwide survey in China. International Journal of Social Psychiatry, [[Paper]](https://doi.org/10.1177/00207640231221100) (SSCI Q1)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Yang, S.</strong>, Wang, Y., Lu, Y., Zhang, H., Wang, F., & Liu, Z. 2023. Long-term effects of the left-behind experience on health and its mechanisms: Empirical evidence from China. Social Science & Medicine, 116315. [[Paper]](https://doi.org/10.1016/j.socscimed.2023.116315) (SSCI Q1)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Wang, Y., <strong>Yang, S.</strong>, Wang, F., & Liu, Z. 2022.Long-term Effects of Left-behind Experience on Adult Depression: Social Trust As Mediating Factor. Frontiers in Public Health. [[Paper]](https://doi.org/10.3389/fpubh.2022.957324) (SSCI Q1)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>杨帅</strong>、刘志军、王岩：《童年期留守与成年后信任：阈限效应、内部差异与作用机制》，载《浙江社会科学》2023年第6期:79-89+158页.（CSSCI）
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 刘志军、<strong>杨帅</strong>、王岩：《时间之窗与时间之创：留守经历对主观幸福感的时间效应》，载《社会》2022年第6期:188-213页.（CSSCI）
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>杨帅</strong>、孙明：《家庭背景、专业选择与收入回报》，载《西北人口》2020年第2期：52-66页.（CSSCI扩）
+
+
 

@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yangshuaisoc](https://img.shields.io/badge/yangshuaisoc-github-blue?logo=github)](https://github.com/yangshuaisoc)
 
 Hi, my name is Shuai Yang (杨帅). I am an Assistant Professor of Sociology at East China University of Science and Technology. I completed my Ph.D. in sociology at Zhejiang University.
 

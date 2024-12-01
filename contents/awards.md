@@ -8,4 +8,4 @@
         
 - 2019  National Scholarship, Ministry of Education, China (RMB 20,000)    
        
-- 2015&2016 Chinese National Encouragement Scholarship, Ministry of Education, China (RMB 5,000)
+- 2015&2016 National Encouragement Scholarship, Ministry of Education, China (RMB 5,000)

@@ -8,7 +8,7 @@ yangs_1863[at]ecust.edu.cn
 
 #### Education
 2024           Ph.D., Sociology,                 Zhejiang University \
-2023-2024  Visiting Graduate Student,  University of California, Los Angeles \
+2023-2024  Visiting Graduate Researcher,  University of California, Los Angeles \
 2020           M.A., Political Science,        Tongji University  \
 2017           B.A., Sociology,                   Heilongjiang University
 

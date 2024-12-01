@@ -15,3 +15,8 @@ Visiting Graduate Student, University of California, Los Angeles, 2023.03-2024.0
 #### Research Interests
 Social Stratification/Inequality, Migration Studies; Computational Social Science
 
+#### Teachings
+<strong>Undergraduate Courses</strong> \
+Social Stratification and Mobility, Department of Sociology, ECUST, China \
+<strong>Undergraduate Courses</strong> \
+Social Statistics, Department of Sociology, ECUST, China
